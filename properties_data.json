@@ -1,40 +1,50 @@
 [
   {
+    "id": 1770230784778,
     "title": "شقة للبيع",
+    "description": "عقاز للبيغ",
     "price": 12500,
     "type": "للبيع",
     "rooms": 5,
     "ready": false,
     "phone": "+963949340870",
     "region": "idlib",
-    "description": "عقاز للبيغ",
-    "coordinates": [
-      35.932115663143435,
-      36.636217832565315
-    ],
-    "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770230776008_VID-20260204-WA0020.mp4",
-    "likes": 0,
+    "mediaType": "video",
+    "likes": 1,
     "comments": [],
-    "createdDate": "2026-02-04T18:46:16.008Z",
-    "id": 1770230784778
+    "createdDate": "2026-02-04T18:46:16.008Z"
   },
   {
+    "id": 1770164296310,
     "title": "اتتتتت",
+    "description": "عقار وعليكم السلام ورحمة الله وبركاته.\nصار في عطل. وتاخر شوي واشتغل ان شاء الله ",
     "price": 20000,
     "type": "للبيع",
     "rooms": 1,
     "ready": false,
     "phone": "+963949340870",
     "region": "idlib",
-    "description": "عقار وعليكم السلام ورحمة الله وبركاته.\nصار في عطل. وتاخر شوي واشتغل ان شاء الله ",
-    "coordinates": [
-      35.935312056224234,
-      36.634726524353034
-    ],
-    "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770164293507_video_1770162967208_file_1770079042947_64579z_VID-20260201-WA0054.mp4",
-    "createdDate": "2026-02-04T00:18:13.507Z",
-    "id": 1770164296310
+    "mediaType": "video",
+    "likes": 0,
+    "comments": [],
+    "createdDate": "2026-02-04T00:18:13.507Z"
+  },
+  {
+    "id": 1770230784778,
+    "title": "شقة للبيع",
+    "description": "عقاز للبيغ",
+    "price": 12500,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770230776008_VID-20260204-WA0020.mp4",
+    "mediaType": "video",
+    "likes": 1,
+    "comments": [],
+    "createdDate": "2026-02-04T18:46:16.008Z"
   }
 ]
