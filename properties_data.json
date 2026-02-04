@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "اتتتتت",
+    "price": 20000,
+    "type": "للبيع",
+    "rooms": 1,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "عقار وعليكم السلام ورحمة الله وبركاته.\nصار في عطل. وتاخر شوي واشتغل ان شاء الله ",
+    "coordinates": [
+      35.935312056224234,
+      36.634726524353034
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770164293507_video_1770162967208_file_1770079042947_64579z_VID-20260201-WA0054.mp4",
+    "createdDate": "2026-02-04T00:18:13.507Z",
+    "id": 1770164296310
+  }
+]
