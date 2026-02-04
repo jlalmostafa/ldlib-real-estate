@@ -6,7 +6,9 @@
     "region": "a",
     "ready": "F",
     "likes": 1,
-    "comments": [],
+    "comments": [
+      "حذوف الشياعة"
+    ],
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1770215787147_IMG_20250907_133826.jpg",
     "mediaType": "image",
     "publishDate": "2026-02-04"
