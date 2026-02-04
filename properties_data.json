@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "شقة للبيع",
+    "price": 12355,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "عثار جدبد للبيع",
+    "coordinates": [
+      35.93391847515978,
+      36.62127256393433
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770233660591_VID-20260204-WA0020.mp4",
+    "likes": 0,
+    "comments": [],
+    "createdDate": "2026-02-04T19:34:20.591Z",
+    "id": 1770233665887
+  }
+]
