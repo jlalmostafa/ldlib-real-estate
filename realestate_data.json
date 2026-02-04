@@ -53,16 +53,5 @@
     "comments": [],
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1770158320136_IMG-20260203-WA0002.jpg",
     "mediaType": "image"
-  },
-  {
-    "id": 1770158247437,
-    "description": "ÃÂÃÂ§ÃÂÃÂ§ÃÂÃÂ§ÃÂÃÂªÃÂÃÂªÃÂÃÂª",
-    "price": 1233,
-    "region": "a",
-    "ready": "T",
-    "likes": 1,
-    "comments": [],
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770158243835_VID-20260201-WA0099.mp4",
-    "mediaType": "video"
   }
 ]
