@@ -1,17 +1,5 @@
 [
   {
-    "id": 1770220744358,
-    "description": "1",
-    "price": 33,
-    "region": "d",
-    "ready": "T",
-    "likes": 2,
-    "comments": [],
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1770220742664_Screenshot_٢٠٢٦-٠٢-٠٤-١٨-٥٧-٢٨-٩٣٨_com.google.android.apps.photos.jpg",
-    "mediaType": "image",
-    "publishDate": "2026-02-04"
-  },
-  {
     "id": 1770215790229,
     "description": "خبز يابس",
     "price": 1,
