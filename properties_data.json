@@ -1,5 +1,25 @@
 [
   {
+    "title": "عقار رقمه العقار 110vp",
+    "price": 43000,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "للبيع 3 غرف طابق ثالث (ثاني بلكون) اكساء جديد بناء جديد اصانصير متوفر محضر والتسليم فوري المنطقة دوار المتنبي السعر 42000$ وسكرة موجود فيدو للبناء والموقع",
+    "coordinates": [
+      35.93522696815101,
+      36.63260269906459
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770233874207_video_1770227733878_VID-20260204-WA0000.mp4",
+    "likes": 0,
+    "comments": [],
+    "createdDate": "2026-02-04T19:37:54.207Z",
+    "id": 1770233910853
+  },
+  {
     "title": "شقة للبيع",
     "price": 12355,
     "type": "للبيع",
