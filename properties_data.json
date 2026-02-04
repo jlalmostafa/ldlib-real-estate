@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "عقاد",
+    "price": 1200,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "ااااا",
+    "coordinates": [
+      35.929357154452575,
+      36.63116455078126
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770248713819_video_1770227733878_VID-20260204-WA0000.mp4",
+    "likes": 0,
+    "comments": [],
+    "createdDate": "2026-02-04T23:45:13.819Z",
+    "id": 1770248721389
+  }
+]
