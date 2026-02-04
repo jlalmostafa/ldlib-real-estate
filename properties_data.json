@@ -1,18 +1,1 @@
-[
-  {
-    "id": 1770245148399,
-    "title": "شقة للبيع",
-    "description": "عثارات",
-    "price": 12360,
-    "type": "للبيع",
-    "rooms": 1,
-    "ready": false,
-    "phone": "+963949340870",
-    "region": "idlib",
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770245139694_video_1770227733878_VID-20260204-WA0000.mp4",
-    "mediaType": "video",
-    "likes": 1,
-    "comments": [],
-    "createdDate": "2026-02-04T22:45:39.694Z"
-  }
-]
+[]
