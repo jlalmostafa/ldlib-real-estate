@@ -1,64 +1,54 @@
 [
   {
+    "id": 1770482861388,
     "title": "لعشاق طابق اول🔥 شقة جميلة جدا طابق اول  ٥ غرف ومنافع تجهيز ممتاز👉 طابو اخضر موقع ممتاز قرب مسجد عبيدة 🌹 حي الضبيط مطلوب ٨٠ وبازار صغير 💰",
+    "description": "لا يوجد وصف",
     "price": 80000,
     "type": "للبيع",
     "rooms": 5,
     "ready": true,
     "phone": "+963949340870",
     "region": "idlib",
-    "description": "",
-    "coordinates": [
-      35.9267460725162,
-      36.62008636392004
-    ],
-    "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770482797958_VID-20260207-WA0007.mp4",
-    "createdDate": "2026-02-07T16:46:37.954Z",
-    "id": 1770482861388
+    "mediaType": "video",
+    "likes": 1,
+    "comments": [],
+    "createdDate": "2026-02-07T16:46:37.954Z"
   },
   {
+    "id": 1770322198994,
     "title": "ااااا",
+    "description": "شركة الامل",
     "price": 158000,
     "type": "للبيع",
     "rooms": 1,
     "ready": true,
     "phone": "+963949340870",
     "region": "idlib",
-    "description": "شركة الامل",
-    "coordinates": [
-      35.942545864849706,
-      36.62403944318613
-    ],
-    "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770322196390_video_1770164293507_video_1770162967208_file_1770079042947_64579z_VID-20260201-WA0054.mp4",
-    "createdDate": "2026-02-05T20:09:56.390Z",
-    "id": 1770322198994,
+    "mediaType": "video",
     "likes": 2,
     "comments": [
       "عقار للبيع جاهز"
-    ]
+    ],
+    "createdDate": "2026-02-05T20:09:56.390Z"
   },
   {
+    "id": 1770320812745,
     "title": "شقة للبيع",
+    "description": "عقارللبيع",
     "price": 12558,
     "type": "للبيع",
     "rooms": 1,
     "ready": false,
     "phone": "+963949340870",
     "region": "idlib",
-    "description": "عقارللبيع",
-    "coordinates": [
-      35.938959365111835,
-      36.63159370422364
-    ],
-    "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770320797379_video_1770227733878_VID-20260204-WA0000.mp4",
-    "createdDate": "2026-02-05T19:46:37.379Z",
-    "id": 1770320812745,
+    "mediaType": "video",
     "likes": 1,
     "comments": [
       "عقار موجود شي"
-    ]
+    ],
+    "createdDate": "2026-02-05T19:46:37.379Z"
   }
 ]
