@@ -1,6 +1,24 @@
 [
   {
     "title": "عقار للبيع",
+    "price": 60000,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "🔴للبيع \nجدييد \n4 غرف حرات \nطابق رابع بلكون \nمنطقة دوار الزراعة \nمطلوب 60 الف $ وسكرة\n\nرقم العقار: a007",
+    "coordinates": [
+      35.9268794480367,
+      36.62738053126305
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770649273193_VID-20260209-WA0045.mp4",
+    "createdDate": "2026-02-09T15:01:13.191Z",
+    "id": 1770649279380
+  },
+  {
+    "title": "عقار للبيع",
     "price": 18000,
     "type": "للبيع",
     "rooms": 1,
