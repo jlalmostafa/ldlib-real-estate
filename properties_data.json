@@ -1,5 +1,23 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 22000,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "طابق تاني برندا 3غرف مواقع خلف جامع العمري سعر22وبازار \nطابو اخضر فراغة مباشر\nرقم العرض a0012",
+    "coordinates": [
+      35.932495428386716,
+      36.635607258351406
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771710025414_VID-20260222-WA0002.mp4",
+    "createdDate": "2026-02-21T21:40:25.414Z",
+    "id": 1771710028651
+  },
+  {
     "title": "شقة للبيع في الحارة الشمالية جانب جامع عمر أبن الخطاب ",
     "price": 35000,
     "type": "للبيع",
