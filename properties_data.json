@@ -1,5 +1,23 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 58000,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "🧩 طابق ثالث فني \nوادي النسيم\nقبلي غربي،\n٤ غرف كبار \nجاهز عالسكن \nالسعر ٥٨ الف\nرقم العرض a0015",
+    "coordinates": [
+      35.917527084244924,
+      36.638379095007124
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771711467584_VID-20260222-WA0005.mp4",
+    "createdDate": "2026-02-21T22:04:27.583Z",
+    "id": 1771711477249
+  },
+  {
     "title": "شقق للبيع",
     "price": 35000,
     "type": "للبيع",
