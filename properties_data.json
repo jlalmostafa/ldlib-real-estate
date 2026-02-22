@@ -1,5 +1,25 @@
 [
   {
+    "title": "تيتي",
+    "price": 59,
+    "category": "أرض",
+    "floors": 19,
+    "type": "للبيع",
+    "rooms": 1,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "ريرير",
+    "coordinates": [
+      36.09258946164123,
+      37.08984375000001
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771792691133_Screenshot_٢٠٢٦-٠٢-٢٢-٢٢-٠٩-٢٨-٦٦٦_io.spck.jpg",
+    "createdDate": "2026-02-22T20:38:11.123Z",
+    "id": 1771792692835
+  },
+  {
     "title": "شقة للبيع",
     "price": 500000,
     "area": 120,
