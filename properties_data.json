@@ -1,6 +1,26 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 115000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "⛩️ قصور شعيب \nبناء قيد البناء \nمتوفر \n🔵 الطابق الثاني والثالث \nمساحه ٢٠٠ م ٢ \nسعر الشقه الراحده ١١٥ الف \n🔴 الطابق الثاني الاحمر ١١٥ الف \n🟢 الطابق الرابع الاخضر ٥ غرف \nسعر الشقه ٦٢ الف \n🟠 البرتقالي ٤ غرف الثالث \nسعر الشقه ٥٥ الف\nرقم العرض b002",
+    "coordinates": [
+      35.928465518329645,
+      36.618487360851844
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771795255733_VID-20260222-WA0029.mp4",
+    "createdDate": "2026-02-22T21:20:55.731Z",
+    "id": 1771795263401
+  },
+  {
+    "title": "شقة للبيع",
     "price": 500000,
     "area": 120,
     "floors": 2,
@@ -19,8 +39,7 @@
     "createdDate": "2026-02-22T18:39:55.980Z",
     "id": 1771785603830,
     "likes": 3,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -42,8 +61,7 @@
     "area": null,
     "floors": null,
     "likes": 2,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقق للبيع",
@@ -65,8 +83,7 @@
     "area": null,
     "floors": null,
     "likes": 3,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -88,8 +105,7 @@
     "area": null,
     "floors": null,
     "likes": 2,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -111,8 +127,7 @@
     "area": null,
     "floors": null,
     "likes": 2,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -134,8 +149,7 @@
     "area": null,
     "floors": null,
     "likes": 1,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقق للبيع",
@@ -157,8 +171,7 @@
     "area": null,
     "floors": null,
     "likes": 1,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقق للبيع",
@@ -179,8 +192,7 @@
     "id": 1771728144870,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -201,8 +213,7 @@
     "id": 1771727867307,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة فاخرة للبيع",
@@ -223,8 +234,7 @@
     "id": 1771712983839,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -245,8 +255,7 @@
     "id": 1771712532066,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة فاخرة للبيع",
@@ -267,8 +276,7 @@
     "id": 1771712010753,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -289,8 +297,7 @@
     "id": 1771711477249,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقق للبيع",
@@ -311,8 +318,7 @@
     "id": 1771710549777,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -333,8 +339,7 @@
     "id": 1771710294129,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع",
@@ -355,8 +360,7 @@
     "id": 1771710028651,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة للبيع في الحارة الشمالية جانب جامع عمر أبن الخطاب ",
@@ -377,8 +381,7 @@
     "id": 1771709750224,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "شقة داخلية",
@@ -399,8 +402,7 @@
     "id": 1771709290788,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "عقار للبيع",
@@ -421,8 +423,7 @@
     "id": 1770663963420,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "عقار للبيع",
@@ -443,8 +444,7 @@
     "id": 1770649634426,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "عقار للبيع",
@@ -465,8 +465,7 @@
     "id": 1770649279380,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "عقار للبيع",
@@ -487,8 +486,7 @@
     "id": 1770648746067,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "عقار للبيع قيد الإنشاء ع دفعات",
@@ -509,8 +507,7 @@
     "id": 1770648272359,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "عقار للبيع",
@@ -532,8 +529,7 @@
     "likes": 1,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "عقار للبيع",
@@ -554,8 +550,7 @@
     "id": 1770647347733,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   },
   {
     "title": "عقار غير جاهز للبيع",
@@ -576,7 +571,6 @@
     "id": 1770559122691,
     "area": null,
     "floors": null,
-    "category": null,
-    "images": null
+    "category": null
   }
 ]
