@@ -1,5 +1,25 @@
 [
   {
+    "title": "شقة",
+    "price": 1500,
+    "area": 160,
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "1\nل🔆\nل\nا",
+    "coordinates": [
+      36.057327155621145,
+      36.67102076293181
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771780150894_1000309584.jpg",
+    "createdDate": "2026-02-22T17:09:10.893Z",
+    "id": 1771780152191
+  },
+  {
     "title": "شقة للبيع",
     "price": 75000,
     "type": "للبيع",
@@ -15,7 +35,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771730622300_IMG-20260222-WA0020.jpg",
     "createdDate": "2026-02-22T03:23:42.299Z",
-    "id": 1771730623672
+    "id": 1771730623672,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقق للبيع",
@@ -33,7 +55,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771730252687_IMG-20260222-WA0021.jpg",
     "createdDate": "2026-02-22T03:17:32.687Z",
-    "id": 1771730254209
+    "id": 1771730254209,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع",
@@ -51,7 +75,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771729933585_IMG-20260222-WA0019.jpg",
     "createdDate": "2026-02-22T03:12:13.585Z",
-    "id": 1771729935027
+    "id": 1771729935027,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع",
@@ -69,7 +95,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771729658168_IMG-20260222-WA0018.jpg",
     "createdDate": "2026-02-22T03:07:38.168Z",
-    "id": 1771729659882
+    "id": 1771729659882,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع",
@@ -87,7 +115,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771729504969_IMG-20260222-WA0017.jpg",
     "createdDate": "2026-02-22T03:05:04.969Z",
-    "id": 1771729506380
+    "id": 1771729506380,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقق للبيع",
@@ -105,7 +135,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771728705430_IMG-20260222-WA0016.jpg",
     "createdDate": "2026-02-22T02:51:45.429Z",
-    "id": 1771728706642
+    "id": 1771728706642,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقق للبيع",
@@ -123,7 +155,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771728143677_IMG-20260222-WA0013.jpg",
     "createdDate": "2026-02-22T02:42:23.676Z",
-    "id": 1771728144870
+    "id": 1771728144870,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع",
@@ -141,7 +175,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771727859165_VID-20260222-WA0012.mp4",
     "createdDate": "2026-02-22T02:37:39.159Z",
-    "id": 1771727867307
+    "id": 1771727867307,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة فاخرة للبيع",
@@ -159,7 +195,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771712978761_VID-20260222-WA0011.mp4",
     "createdDate": "2026-02-21T22:29:38.761Z",
-    "id": 1771712983839
+    "id": 1771712983839,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع",
@@ -177,7 +215,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771712530780_IMG-20260222-WA0007.jpg",
     "createdDate": "2026-02-21T22:22:10.780Z",
-    "id": 1771712532066
+    "id": 1771712532066,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة فاخرة للبيع",
@@ -195,7 +235,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771711999981_VID-20260222-WA0006.mp4",
     "createdDate": "2026-02-21T22:13:19.981Z",
-    "id": 1771712010753
+    "id": 1771712010753,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع",
@@ -213,7 +255,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771711467584_VID-20260222-WA0005.mp4",
     "createdDate": "2026-02-21T22:04:27.583Z",
-    "id": 1771711477249
+    "id": 1771711477249,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقق للبيع",
@@ -231,7 +275,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771710548495_IMG-20260222-WA0004.jpg",
     "createdDate": "2026-02-21T21:49:08.495Z",
-    "id": 1771710549777
+    "id": 1771710549777,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع",
@@ -249,7 +295,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771710283673_VID-20260222-WA0003.mp4",
     "createdDate": "2026-02-21T21:44:43.673Z",
-    "id": 1771710294129
+    "id": 1771710294129,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع",
@@ -267,7 +315,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771710025414_VID-20260222-WA0002.mp4",
     "createdDate": "2026-02-21T21:40:25.414Z",
-    "id": 1771710028651
+    "id": 1771710028651,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة للبيع في الحارة الشمالية جانب جامع عمر أبن الخطاب ",
@@ -285,7 +335,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771709738672_VID-20260222-WA0001.mp4",
     "createdDate": "2026-02-21T21:35:38.671Z",
-    "id": 1771709750224
+    "id": 1771709750224,
+    "area": null,
+    "floors": null
   },
   {
     "title": "شقة داخلية",
@@ -303,7 +355,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771709282210_VID-20260222-WA0000.mp4",
     "createdDate": "2026-02-21T21:28:02.204Z",
-    "id": 1771709290788
+    "id": 1771709290788,
+    "area": null,
+    "floors": null
   },
   {
     "title": "عقار للبيع",
@@ -321,7 +375,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770663941801_VID-20260209-WA0076.mp4",
     "createdDate": "2026-02-09T19:05:41.794Z",
-    "id": 1770663963420
+    "id": 1770663963420,
+    "area": null,
+    "floors": null
   },
   {
     "title": "عقار للبيع",
@@ -339,7 +395,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770649628203_VID-20260209-WA0046.mp4",
     "createdDate": "2026-02-09T15:07:08.203Z",
-    "id": 1770649634426
+    "id": 1770649634426,
+    "area": null,
+    "floors": null
   },
   {
     "title": "عقار للبيع",
@@ -357,7 +415,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770649273193_VID-20260209-WA0045.mp4",
     "createdDate": "2026-02-09T15:01:13.191Z",
-    "id": 1770649279380
+    "id": 1770649279380,
+    "area": null,
+    "floors": null
   },
   {
     "title": "عقار للبيع",
@@ -375,7 +435,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1770648744463_IMG-20260209-WA0044.jpg",
     "createdDate": "2026-02-09T14:52:24.463Z",
-    "id": 1770648746067
+    "id": 1770648746067,
+    "area": null,
+    "floors": null
   },
   {
     "title": "عقار للبيع قيد الإنشاء ع دفعات",
@@ -393,7 +455,9 @@
     "mediaType": "image",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1770648270919_IMG-20260208-WA0017.jpg",
     "createdDate": "2026-02-09T14:44:30.919Z",
-    "id": 1770648272359
+    "id": 1770648272359,
+    "area": null,
+    "floors": null
   },
   {
     "title": "عقار للبيع",
@@ -412,7 +476,9 @@
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770647780273_VID-20260209-WA0036.mp4",
     "createdDate": "2026-02-09T14:36:20.267Z",
     "id": 1770647785789,
-    "likes": 1
+    "likes": 1,
+    "area": null,
+    "floors": null
   },
   {
     "title": "عقار للبيع",
@@ -430,7 +496,9 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770647334397_VID-20260202-WA0090(1).mp4",
     "createdDate": "2026-02-09T14:28:54.392Z",
-    "id": 1770647347733
+    "id": 1770647347733,
+    "area": null,
+    "floors": null
   },
   {
     "title": "عقار غير جاهز للبيع",
@@ -448,6 +516,8 @@
     "mediaType": "video",
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1770559116152_VID-20260105-WA0024.mp4",
     "createdDate": "2026-02-08T13:58:36.142Z",
-    "id": 1770559122691
+    "id": 1770559122691,
+    "area": null,
+    "floors": null
   }
 ]
