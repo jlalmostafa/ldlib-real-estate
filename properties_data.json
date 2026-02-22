@@ -1,29 +1,5 @@
 [
   {
-    "title": "اا",
-    "price": 15,
-    "category": "شقة",
-    "floors": 2,
-    "type": "للبيع",
-    "rooms": 1,
-    "ready": true,
-    "phone": "+963949340870",
-    "region": "idlib",
-    "description": "ايا",
-    "coordinates": [
-      35.95020470423177,
-      36.632966995239265
-    ],
-    "mediaType": "image",
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771800437373_0_VID-20260223-WA0012.mp4",
-    "images": [
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771800437373_0_VID-20260223-WA0012.mp4",
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771800450855_1_VID-20260223-WA0011.mp4"
-    ],
-    "createdDate": "2026-02-22T22:47:17.373Z",
-    "id": 1771800458210
-  },
-  {
     "title": "صالة للبيع",
     "price": 95000,
     "category": "محل تجاري",
