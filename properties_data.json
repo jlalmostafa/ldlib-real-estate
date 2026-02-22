@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 70000,
+    "category": "شقة",
+    "floors": 5,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "طابق رابع فني للبيع\n\n مؤلف من اربع غرف ومنافع \n\nمساحة كبيرة \n\nموقع ممتاز بحي الجامعة مقابل جامع الامة \n\nاتجاه شمالي غربي\n\n مصعد شغال \n\nمحضر فراغة\n\n مطلوب ٧٠ الف وبازار..\n\nرقم العرض b009",
+    "coordinates": [
+      35.93866162664591,
+      36.62749072117828
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771804660005_VID-20260223-WA0013.mp4",
+    "images": [],
+    "createdDate": "2026-02-22T23:57:40.003Z",
+    "id": 1771804665667
+  },
+  {
+    "title": "شقة للبيع",
     "price": 50000,
     "category": "شقة",
     "floors": 3,
