@@ -1,5 +1,23 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 75000,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "®\n\nتالت فني اصفر                \n\n+\n\nقصور شعيب              \n+\n\nمخطط دفعات عالصبات              \n\n+\nقبلي غربي               \n\n+\nمساحة 165م               \n+\n\n ٧٥ الف وبازار               \n+         \n\nرقم العرض a0026               \n🌸🌸🌸",
+    "coordinates": [
+      35.92973209846306,
+      36.61809469308878
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771730622300_IMG-20260222-WA0020.jpg",
+    "createdDate": "2026-02-22T03:23:42.299Z",
+    "id": 1771730623672
+  },
+  {
     "title": "شقق للبيع",
     "price": 50000,
     "type": "للبيع",
