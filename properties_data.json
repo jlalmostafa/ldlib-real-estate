@@ -1,6 +1,24 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 36000,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "من ابنيه الملعب المعشب \nالتجمع الجديد \nمتوفر الطابق السابع البرتقالي \nالسعر ٣٦ الف\n\nرقم العرض a0023",
+    "coordinates": [
+      35.92448541854828,
+      36.642818421496656
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771729658168_IMG-20260222-WA0018.jpg",
+    "createdDate": "2026-02-22T03:07:38.168Z",
+    "id": 1771729659882
+  },
+  {
+    "title": "شقة للبيع",
     "price": 37,
     "type": "للبيع",
     "rooms": 3,
