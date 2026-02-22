@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 92000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "بقصور شعيب \nمتوفر الطابق الثاني \nمساحه ١٧٠ م ٢ \nيمين المدخل \nالسعر ٩٢ ألف\n\nرقم العرض b003",
+    "coordinates": [
+      35.92700779028049,
+      36.61777570517825
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771799188784_VID-20260223-WA0001.mp4",
+    "images": [],
+    "createdDate": "2026-02-22T22:26:28.783Z",
+    "id": 1771799190922
+  },
+  {
+    "title": "شقة للبيع",
     "price": 70000,
     "category": "شقة",
     "floors": 5,
