@@ -1,25 +1,5 @@
 [
   {
-    "title": "ظررظ",
-    "price": 499,
-    "category": "أرض",
-    "floors": 949,
-    "type": "للبيع",
-    "rooms": 1,
-    "ready": true,
-    "phone": "+963949340870",
-    "region": "idlib",
-    "description": "ززز",
-    "coordinates": [
-      36.24777764506756,
-      37.09533691406251
-    ],
-    "mediaType": "video",
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771792929093_VID-20260222-WA0180.mp4",
-    "createdDate": "2026-02-22T20:42:09.093Z",
-    "id": 1771792932600
-  },
-  {
     "title": "شقة للبيع",
     "price": 500000,
     "area": 120,
