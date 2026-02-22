@@ -1,6 +1,26 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 500000,
+    "area": 120,
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "عقار للبيع \nاريحا\nرقم العرض غير معلن \n\nتجريب",
+    "coordinates": [
+      35.81249117485317,
+      36.60972316772721
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771785595990_VID-20260222-WA0012.mp4",
+    "createdDate": "2026-02-22T18:39:55.980Z",
+    "id": 1771785603830
+  },
+  {
+    "title": "شقة للبيع",
     "price": 75000,
     "type": "للبيع",
     "rooms": 5,
