@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 100000,
+    "category": "شقة",
+    "floors": 3,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "مفرق عين شيب\nطابق ثالث فني \n٥ غرف \nتجهيز سوبر \nالسعر    ١٠٠ الف\n\nرقم العرض b004",
+    "coordinates": [
+      35.92246313274587,
+      36.619099511252536
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771799395666_VID-20260223-WA0002.mp4",
+    "images": [],
+    "createdDate": "2026-02-22T22:29:55.666Z",
+    "id": 1771799402751
+  },
+  {
+    "title": "شقة للبيع",
     "price": 92000,
     "category": "شقة",
     "floors": 2,
