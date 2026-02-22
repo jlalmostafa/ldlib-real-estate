@@ -1,30 +1,5 @@
 [
   {
-    "title": "يو",
-    "price": 2,
-    "category": "أرض",
-    "floors": 2,
-    "type": "للبيع",
-    "rooms": 1,
-    "ready": true,
-    "phone": "+963949340870",
-    "region": "idlib",
-    "description": "ظرظر",
-    "coordinates": [
-      35.902241007993204,
-      36.72453727007054
-    ],
-    "mediaType": "image",
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771794902077_0_1000310740.jpg",
-    "images": [
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771794902077_0_1000310740.jpg",
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771794903458_1_1000310763.jpg",
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771794904588_2_1000310580.jpg"
-    ],
-    "createdDate": "2026-02-22T21:15:02.077Z",
-    "id": 1771794906307
-  },
-  {
     "title": "شقة للبيع",
     "price": 500000,
     "area": 120,
