@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 50000,
+    "category": "شقة",
+    "floors": 3,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "شقة للبيع\nطابق تالت\n٣ غرف حرات\nحي الثورة\nمقابيل حديقة احسان مبيض\nطابواخضر\nتجهيز ممتاز\nمطلوب ٥٠وبازار\nرقم العرض b008",
+    "coordinates": [
+      35.92436589714642,
+      36.62034367568745
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771803427016_VID-20260223-WA0012.mp4",
+    "images": [],
+    "createdDate": "2026-02-22T23:37:07.016Z",
+    "id": 1771803433790
+  },
+  {
+    "title": "شقة للبيع",
     "price": 100000,
     "category": "شقة",
     "floors": 4,
