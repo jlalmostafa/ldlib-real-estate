@@ -1,6 +1,29 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 73000,
+    "category": "شقة",
+    "floors": 3,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "طابق ثالث فني \nشارع ٢٠ \nقريب على دوار السلسبيل \nقريب على قصر المحافظ \nاطلاله على بساتين الزيتون \nالبناء واصل للطابق الخامس \nبناء جديد \nمساحه  ١٥٠ م ٢ \nالسعر ٧٣ الف\n\nرقم العرض b0019",
+    "coordinates": [
+      35.91898155149182,
+      36.62467516978697
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771888027316_0_IMG-20260224-WA0005.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771888027316_0_IMG-20260224-WA0005.jpg"
+    ],
+    "createdDate": "2026-02-23T23:07:07.315Z",
+    "id": 1771888028780
+  },
+  {
+    "title": "شقة للبيع",
     "price": 87000,
     "category": "شقة",
     "floors": 4,
