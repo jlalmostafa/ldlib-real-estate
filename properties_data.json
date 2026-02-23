@@ -1,5 +1,26 @@
 [
   {
+    "title": "صالة للبيع",
+    "price": 1,
+    "category": "محل تجاري",
+    "floors": 1,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "صالة للبيع مساحة 180 متر  \n الموقع قصور شعيب ",
+    "coordinates": [
+      35.9295137655568,
+      36.618210246587864
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771887629509_VID-20260224-WA0003.mp4",
+    "images": [],
+    "createdDate": "2026-02-23T23:00:29.509Z",
+    "id": 1771887632095
+  },
+  {
     "title": "شقة للبيع",
     "price": 38000,
     "category": "شقة",
