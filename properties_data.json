@@ -1,5 +1,26 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 41000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "للبيع شقه\n طابق تاني \nقريب من مطعم الاندلس\n بناء جديد وبيت جديد \nمولف من اربع غرف ومنافع \nمحضر اخضر \nالسعر 41 الف وبازار \n\nفاضي وتسليم فوري\n\nرقم العرض b0017",
+    "coordinates": [
+      35.93327170068432,
+      36.62923464115919
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771887092620_VID-20260224-WA0000.mp4",
+    "images": [],
+    "createdDate": "2026-02-23T22:51:32.614Z",
+    "id": 1771887109370
+  },
+  {
     "title": "شقق للبيع",
     "price": 30000,
     "category": "شقة",
