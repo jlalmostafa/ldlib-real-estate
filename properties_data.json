@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 85000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "لبييع\nطابق تاني بيتين جنب بعض\nبيت 4 غرف\nوبيت تاني 5 غرف\nمصعد راكب شغال\nسعر بيتن مع بعض 170\n\nرقم العرض b0014",
+    "coordinates": [
+      35.920471541752136,
+      36.63072098665247
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771811620038_VID-20260223-WA0019.mp4",
+    "images": [],
+    "createdDate": "2026-02-23T01:53:40.030Z",
+    "id": 1771811632281
+  },
+  {
+    "title": "شقة للبيع",
     "price": 58000,
     "category": "شقة",
     "floors": 6,
