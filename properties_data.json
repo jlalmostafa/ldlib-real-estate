@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 140000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "للبيع شقة ملكية \n5 غرف مع المنافع \nطابق 2\nزاوية على شارعين \nجانب جامع الابرار \nاتجاه قبلي غربي\n140 ألف $ وبازار\n\nرقم العرض b0012",
+    "coordinates": [
+      35.919969065178634,
+      36.62788110562365
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771805726900_VID-20260223-WA0017.mp4",
+    "images": [],
+    "createdDate": "2026-02-23T00:15:26.900Z",
+    "id": 1771805733506
+  },
+  {
+    "title": "شقة للبيع",
     "price": 42000,
     "category": "شقة",
     "floors": 1,
