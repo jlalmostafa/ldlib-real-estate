@@ -1,5 +1,26 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 42000,
+    "category": "شقة",
+    "floors": 1,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "بيت للبيع طابق ارضي ع وش الأرض \n خلف جامع الحسين \n4 غرف ومنافع وجنبنة كبيري\n\n مساحة البيت 150 متر \n\nمنفوض جديد \n\nطابو اخضر ع لفراغة \n\nمطلوب 42 وبازار صغير\n\nرقم العرض b0011",
+    "coordinates": [
+      35.93695987724865,
+      36.62894863290706
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771805457179_VID-20260223-WA0016.mp4",
+    "images": [],
+    "createdDate": "2026-02-23T00:10:57.179Z",
+    "id": 1771805464299
+  },
+  {
     "title": " شقة للبيع",
     "price": 70000,
     "category": "شقة",
