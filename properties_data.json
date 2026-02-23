@@ -1,5 +1,26 @@
 [
   {
+    "title": " شقة للبيع",
+    "price": 70000,
+    "category": "شقة",
+    "floors": 3,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "🔴للبيع جديد\n4غرف حرات طابق ثالث \n\nثاني فني \nحي الثورة \nبناء جديد اكساء جديد \nاصانصير متوفر\n\nرقم العرض b0010",
+    "coordinates": [
+      35.92124566567164,
+      36.62641862468374
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771805070262_VID-20260223-WA0014.mp4",
+    "images": [],
+    "createdDate": "2026-02-23T00:04:30.261Z",
+    "id": 1771805076215
+  },
+  {
     "title": "شقة للبيع",
     "price": 70000,
     "category": "شقة",
