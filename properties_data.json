@@ -1,28 +1,5 @@
 [
   {
-    "title": "شقق للبيع",
-    "price": 30,
-    "category": "شقة",
-    "floors": 1,
-    "type": "للبيع",
-    "rooms": 4,
-    "ready": false,
-    "phone": "+963949340870",
-    "region": "idlib",
-    "description": "مخطط جديد خلف جامع بركات بحي الشيخ تلت كل طابق مؤلف من شقتين كل شقة 4غرف\n\nطابق اول برندا 31وبازار\nطابق تاني برندا 31وبازار\nطابق تالت برندا 29وبازار\nطابق رابع برندا 27وبازار\n\nرقم العرض b0016",
-    "coordinates": [
-      35.92489936792953,
-      36.644324891734975
-    ],
-    "mediaType": "image",
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771812634834_0_IMG-20260223-WA0024.jpg",
-    "images": [
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771812634834_0_IMG-20260223-WA0024.jpg"
-    ],
-    "createdDate": "2026-02-23T02:10:34.834Z",
-    "id": 1771812636578
-  },
-  {
     "title": "شقة للبيع",
     "price": 42000,
     "category": "شقة",
