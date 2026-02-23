@@ -1,5 +1,26 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 87000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "قطعه جميله \nطابق رابع \nخمس غرف \nاتجاه قبلي غربي \nالموقع \nجانب قصر المحافظ \nاطلاله على بساتين خاصه \nشارع ٢٠ \nالسعر ٨٧ الف \n\n\nومتوفر نفس البناء عظم \nطابق خامس \nالسعر ٥٥ الف \n\nالاصنصيل بحاجه لصيانه\n\nرقم العرض b0018",
+    "coordinates": [
+      35.91729997714322,
+      36.629116175165095
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771887821946_VID-20260224-WA0004.mp4",
+    "images": [],
+    "createdDate": "2026-02-23T23:03:41.946Z",
+    "id": 1771887826866
+  },
+  {
     "title": "صالة للبيع",
     "price": 1,
     "category": "محل تجاري",
