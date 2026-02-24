@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 75000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "شقة بلاطة وحدة طابق رابع \n6غرف مساحة 190متر \nالموقع قريب على كورنيش الثورة بين دوار الزراعة ودوار الكستنا \nمنفوضة جديد ..فراغة مباشر ة طابو اخضر \nمطلوب 75وبازار\n\nرقم العرض b0027",
+    "coordinates": [
+      35.92376124408665,
+      36.625731321585064
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771937537041_VID-20260224-WA0033.mp4",
+    "images": [],
+    "createdDate": "2026-02-24T12:52:17.041Z",
+    "id": 1771937541813
+  },
+  {
+    "title": "شقة للبيع",
     "price": 58000,
     "category": "شقة",
     "floors": 6,
