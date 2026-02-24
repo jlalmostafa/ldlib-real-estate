@@ -1,5 +1,28 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 27500,
+    "category": "شقة",
+    "floors": 6,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "بالشيخ ثلث \nبناء سكن اول \nالبناء حاليا بمرحله صب القواعد \nمتوفر السادس الاخضر مساحه ١٠٠م٢ \nثلاث غرف امامي \nالسعر ٢٧٥٠٠\n\nرقم العرض b0029",
+    "coordinates": [
+      35.92464312352869,
+      36.64269859902627
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771938186634_0_IMG-20260224-WA0038.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771938186634_0_IMG-20260224-WA0038.jpg"
+    ],
+    "createdDate": "2026-02-24T13:03:06.634Z",
+    "id": 1771938188300
+  },
+  {
     "title": "شقق للبيع",
     "price": 50000,
     "category": "شقة",
