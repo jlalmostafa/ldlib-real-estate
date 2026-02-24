@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 26000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "السلام عليكم\nللبيع\nواقع\nالخامس 26 وبازار صغير\nالرابع 28 وبازار صغير\n🌹🌹\nرقم العرض b0031",
+    "coordinates": [
+      35.93901635394292,
+      36.634593226349196
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771975921362_VID-20260225-WA0003.mp4",
+    "images": [],
+    "createdDate": "2026-02-24T23:32:01.362Z",
+    "id": 1771975925474
+  },
+  {
+    "title": "شقة للبيع",
     "price": 69000,
     "category": "شقة",
     "floors": 2,
