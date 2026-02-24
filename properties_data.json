@@ -1,28 +1,5 @@
 [
   {
-    "title": "ايايااياياايا",
-    "price": 2151,
-    "category": "أرض",
-    "floors": 2,
-    "type": "للبيع",
-    "rooms": 1,
-    "ready": true,
-    "phone": "+963949340870",
-    "region": "idlib",
-    "description": "يريتتي",
-    "coordinates": [
-      35.95257154290767,
-      36.637115119228845
-    ],
-    "mediaType": "image",
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771892226554_0_IMG-20260224-WA0031.jpg",
-    "images": [
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771892226554_0_IMG-20260224-WA0031.jpg"
-    ],
-    "createdDate": "2026-02-24T00:17:06.554Z",
-    "id": 1771892228144
-  },
-  {
     "title": "شقة للبيع",
     "price": 38000,
     "category": "شقة",
