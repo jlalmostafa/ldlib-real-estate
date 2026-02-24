@@ -1,5 +1,26 @@
 [
   {
+    "title": "محل للبيع",
+    "price": 85000,
+    "category": "محل تجاري",
+    "floors": 1,
+    "type": "للبيع",
+    "rooms": 1,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "بسم الله الرحمن الرحيم عن عقار للبيع محل تجاري الموقع قريب من ساحه السيراتيل مساحه 10 امتار ونص محضر على الفراغه فاضي على التسليم مباشر سعر المحل 85000 دولار وبازار صغير \n\nرقم العرض b0024",
+    "coordinates": [
+      35.92888449097644,
+      36.63246783891655
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771891767781_VID-20260224-WA0027.mp4",
+    "images": [],
+    "createdDate": "2026-02-24T00:09:27.781Z",
+    "id": 1771891770490
+  },
+  {
     "title": "شقة للبيع",
     "price": 65000,
     "category": "شقة",
