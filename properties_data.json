@@ -1,5 +1,30 @@
 [
   {
+    "title": "شقق للبيع",
+    "price": 50000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "بناء الزهراء \nوادي النسيم \nشارع ٣٠ م   شرق طريق اريحا \nالبناء حاليا واصل للطابق الاول \nباقي ٨ قطع بهالبناء للبيع\n🔴 الاحمر السادس         ٦١  الف\n٥ غرف ١٦٥ م ٢ \n🔴 الاحمر السابع           ٥٥ الف\n٥ غرف ١٦٥ م ٢ \n🔵 الازرق السابع         ٦٥ الغ \n٦ غرف   ٢٠٠م ٢ \n🟢 السادس الاخضر ٤ غرف \n٤٢ الف \n🟢 الرابع الاخضر ٤ غرف \n٤٦ الف \n🟣 البنفسجي خلفي ٣ غرف \nالسادس ٢٨ الف\n\nرقم العرض b0028",
+    "coordinates": [
+      35.91663004348728,
+      36.638080098068556
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771937798376_0_IMG-20260224-WA0034.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771937798376_0_IMG-20260224-WA0034.jpg",
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771937800054_1_IMG-20260224-WA0035.jpg",
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771937801077_2_VID-20260224-WA0036.mp4"
+    ],
+    "createdDate": "2026-02-24T12:56:38.376Z",
+    "id": 1771937804259
+  },
+  {
     "title": "شقة للبيع",
     "price": 75000,
     "category": "شقة",
