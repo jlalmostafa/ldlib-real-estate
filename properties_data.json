@@ -1,5 +1,26 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 45000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "🟡 للبيع 🟡\nمنزل بحي الثورة \n. جانب مدرسة البحتري .\n طابق رابع\n . مؤلف من ٣ غرف ومنافع \n\n. السعر  45 الف وبازار\n\nرقم العرض b0022",
+    "coordinates": [
+      35.920331154162646,
+      36.62692021013136
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771891201322_VID-20260224-WA0017.mp4",
+    "images": [],
+    "createdDate": "2026-02-24T00:00:01.322Z",
+    "id": 1771891205763
+  },
+  {
     "title": "شقة للبيع ",
     "price": 23000,
     "category": "شقة",
