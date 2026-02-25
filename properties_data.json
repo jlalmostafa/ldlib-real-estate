@@ -1,5 +1,28 @@
 [
   {
+    "title": "شقق للبيع",
+    "price": 95000,
+    "category": "شقة",
+    "floors": 1,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "من اجمل الابنيه ضمن منطقه قصور شعيب \nالبناء واصل للطابق الخامس \nمساحات واسعه \n١٨٥ م ٢ \nاتجاه البناء عالضبيط \nمقابيل  مدرسه عبد الكريم الاذقاني \nمتوفر \nالطابق الاول سعر الشقه ٩٥\n \nالطابق الرابع سعر الشقه ٩٠\n\nرقم العرض b0036",
+    "coordinates": [
+      35.92934777071724,
+      36.61915435276219
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772055968470_0_IMG-20260226-WA0005.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772055968470_0_IMG-20260226-WA0005.jpg"
+    ],
+    "createdDate": "2026-02-25T21:46:08.464Z",
+    "id": 1772055973275
+  },
+  {
     "title": "شقة للبيع",
     "price": 35000,
     "category": "شقة",
