@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 32000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "شقة للبيع جنب مدرسة فاتح السيد \n\nالسعر ٣٢الف\nرقم العرض b0033",
+    "coordinates": [
+      35.92385227986527,
+      36.63700061780102
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771980942101_VID-20260225-WA0008.mp4",
+    "images": [],
+    "createdDate": "2026-02-25T00:55:42.095Z",
+    "id": 1771980947095
+  },
+  {
+    "title": "شقة للبيع",
     "price": 35000,
     "category": "شقة",
     "floors": 1,
