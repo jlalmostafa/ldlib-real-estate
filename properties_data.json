@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 35000,
+    "category": "شقة",
+    "floors": 5,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "نبدأ بالصلاة على النبي اللهم صل وسلم وبارك على محمد..\nللبيع البيت بالجامعة اطلالي فتح على جامع الحسين ومنطقة البازار ثلاث غرف طابق خامس بناء جديد اكساء ممتاز طابو نظامي\nمطلوب 35الف وبازار\n\nرقم العرض b0035",
+    "coordinates": [
+      35.93727888872901,
+      36.630918548975565
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771981870085_VID-20260225-WA0014.mp4",
+    "images": [],
+    "createdDate": "2026-02-25T01:11:10.084Z",
+    "id": 1771981879863
+  },
+  {
+    "title": "شقة للبيع",
     "price": 50000,
     "category": "شقة",
     "floors": 3,
