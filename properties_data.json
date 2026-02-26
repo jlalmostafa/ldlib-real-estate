@@ -1,6 +1,29 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 36000,
+    "category": "شقة",
+    "floors": 5,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "السلام عليكم ورحمة الله وبركاتو زبائننا الكرام عنى هاي البنائة هلق على العضم حالين موقع ممتاز وأستراتيجي واطلالي حلوي\nطابق رابع فني امامي شارع 16متر \nشمالي غربي برندتين اربع غرف ومنافع بناية اللبابيدي فتح على مزارع خاصة مطلوب 36وبازار\nb0038",
+    "coordinates": [
+      35.940765312811116,
+      36.64372207234525
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772150237955_0_IMG-20260227-WA0003.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772150237955_0_IMG-20260227-WA0003.jpg"
+    ],
+    "createdDate": "2026-02-26T23:57:17.955Z",
+    "id": 1772150239281
+  },
+  {
+    "title": "شقة للبيع",
     "price": 60000,
     "category": "شقة",
     "floors": 1,
