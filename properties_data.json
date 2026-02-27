@@ -1,6 +1,29 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 38000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "متوفر شقتين البلاطة الرابعة \nالسعر 76000$\nكل شقة ثلاث غرف\nرقم العرض b0050",
+    "coordinates": [
+      35.92529040150529,
+      36.626171046868926
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772156136548_0_IMG-20260227-WA0037.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772156136548_0_IMG-20260227-WA0037.jpg"
+    ],
+    "createdDate": "2026-02-27T01:35:36.547Z",
+    "id": 1772156137924
+  },
+  {
+    "title": "شقة للبيع",
     "price": 18000,
     "category": "شقة",
     "floors": 7,
