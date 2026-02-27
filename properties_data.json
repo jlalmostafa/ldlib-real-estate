@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 46000,
+    "category": "شقة",
+    "floors": 3,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "طابق تالت للبيع\n\n مؤلف من ثلاث غرف ومنافع\n\n تجهيز جديد وبناء جديد\n\n الموقع حي الجامعة شمال مستوصف الجامعة \n\nاتجاه غربي\n\n مطلوب ٤٦ الف وبازار واستلام فوري ..\n\nb0048",
+    "coordinates": [
+      35.94101406535479,
+      36.63029236810881
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772154771510_VID-20260227-WA0031.mp4",
+    "images": [],
+    "createdDate": "2026-02-27T01:12:51.510Z",
+    "id": 1772154780818
+  },
+  {
+    "title": "شقة للبيع",
     "price": 70000,
     "category": "شقة",
     "floors": 1,
