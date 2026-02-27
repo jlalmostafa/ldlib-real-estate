@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 45000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "للبيع حي الثورة \n\n3 غرف طابق\n\n تالت فني \n\nجانب بن الاحلام الفرع الثاني\n\n محضر طابو والتسليم فوري\n\nالسعر ٤٥ألف\n\nb0051",
+    "coordinates": [
+      35.92601935202976,
+      36.61954847776702
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772156499421_VID-20260227-WA0038.mp4",
+    "images": [],
+    "createdDate": "2026-02-27T01:41:39.421Z",
+    "id": 1772156512896
+  },
+  {
+    "title": "شقة للبيع",
     "price": 38000,
     "category": "شقة",
     "floors": 4,
