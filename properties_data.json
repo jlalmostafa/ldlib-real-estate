@@ -1,6 +1,29 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 29000,
+    "category": "شقة",
+    "floors": 1,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "للبيع أبجور ثلاث غرف ومنافع البيت صار واقع \n💱السعر 29,000💲 وبازار\n📌 الموقع مقابل المرآب\nb0045",
+    "coordinates": [
+      35.939044901502314,
+      36.634021335984336
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772152118571_0_IMG-20260227-WA0024.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772152118571_0_IMG-20260227-WA0024.jpg"
+    ],
+    "createdDate": "2026-02-27T00:28:38.571Z",
+    "id": 1772152119873
+  },
+  {
+    "title": "شقة للبيع",
     "price": 47000,
     "category": "شقة",
     "floors": 4,
