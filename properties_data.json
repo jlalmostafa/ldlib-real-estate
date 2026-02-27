@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 87000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "للبيع شقة \n5 غرف مع المنافع \nطابق 3 فني \nبلاطة واحدة تجهيز جديد \nاطلالة رائعه فتح 3 جهات \nحي القصور  بالقرب من السبع بحرات\n87 ألف $ وبازار\n\nرقم العرض b0055",
+    "coordinates": [
+      35.92527517687403,
+      36.63386638121991
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772230351735_VID-20260228-WA0003.mp4",
+    "images": [],
+    "createdDate": "2026-02-27T22:12:31.735Z",
+    "id": 1772230362632
+  },
+  {
+    "title": "شقة للبيع",
     "price": 100000,
     "category": "شقة",
     "floors": 2,
