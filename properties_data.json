@@ -1,5 +1,28 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 60000,
+    "category": "شقة",
+    "floors": 4,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "متوفر مقابيل كليه الطب البشري \nومنتزه سيتي روز \nالطابق الرابع عظم ٥ غرف    ٦٢ الف \nالطابق السادس عظم ٥ غرف     ٥٦ الف\nرقم العرض b0040",
+    "coordinates": [
+      35.93990411664476,
+      36.6242612826514
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772150518281_0_IMG-20260227-WA0005.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772150518281_0_IMG-20260227-WA0005.jpg"
+    ],
+    "createdDate": "2026-02-27T00:01:58.281Z",
+    "id": 1772150519964
+  },
+  {
     "title": "شقق للبيع",
     "price": 39000,
     "category": "شقة",
