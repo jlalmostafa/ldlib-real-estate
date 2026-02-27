@@ -1,5 +1,26 @@
 [
   {
+    "title": "شقق للبيع",
+    "price": 39000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "شقتين مقابيل بعض \nاماميات \n٤ غرف كل شقه \nحي الحامعه عظم \nمقابيل كليه الطب البشري \nسعر الشقه ٣٩ ألف\n\nb0039",
+    "coordinates": [
+      35.940710206790314,
+      36.625376975630246
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772150414232_VID-20260227-WA0004.mp4",
+    "images": [],
+    "createdDate": "2026-02-27T00:00:14.232Z",
+    "id": 1772150417029
+  },
+  {
     "title": "شقة للبيع",
     "price": 36000,
     "category": "شقة",
