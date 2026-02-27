@@ -1,5 +1,28 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 39000,
+    "category": "شقة",
+    "floors": 7,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "الموقع مفرق عين شيب \nاطلاله على الكورنيش الغربي \nطابق سابع اربع غرف \nالسعر ٣٩ ألف\n\nb0042",
+    "coordinates": [
+      35.921728168000705,
+      36.61618784529116
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772151256450_0_IMG-20260227-WA0015.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772151256450_0_IMG-20260227-WA0015.jpg"
+    ],
+    "createdDate": "2026-02-27T00:14:16.450Z",
+    "id": 1772151258062
+  },
+  {
     "title": "شققة للبيع",
     "price": 135000,
     "category": "شقة",
