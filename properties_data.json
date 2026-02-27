@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 18000,
+    "category": "شقة",
+    "floors": 7,
+    "type": "للبيع",
+    "rooms": 2,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "السلام عليكم ورحمه الله وبركاته \nموجود لدينا منزل\n طابق سابع خلفي\n بدون اصنصيل \nالموقع حي الجامعة \nمطلوب 18 وبازار \nطابو اخضر عالفراغة مباشر\nb0049",
+    "coordinates": [
+      35.93796967911261,
+      36.62722770377538
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772155397207_VID-20260227-WA0032.mp4",
+    "images": [],
+    "createdDate": "2026-02-27T01:23:17.205Z",
+    "id": 1772155415575
+  },
+  {
+    "title": "شقة للبيع",
     "price": 46000,
     "category": "شقة",
     "floors": 3,
