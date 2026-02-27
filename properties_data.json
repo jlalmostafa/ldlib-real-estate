@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 70000,
+    "category": "شقة",
+    "floors": 1,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "طابق اول للبيع\n\n مؤلف من خمس غرف ومنافع\n\n الموقع حي الجامعة مقابل جامع الامة \n\nتجهيز جديد\n\n محضر فراغة مطلوب ٧٠ الف وبازار\n\nرقم العرض b0047\n",
+    "coordinates": [
+      35.93875585299491,
+      36.62760882472199
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772153846035_VID-20260227-WA0028.mp4",
+    "images": [],
+    "createdDate": "2026-02-27T00:57:26.031Z",
+    "id": 1772153869015
+  },
+  {
+    "title": "شقة للبيع",
     "price": 35000,
     "category": "شقة",
     "floors": 5,
