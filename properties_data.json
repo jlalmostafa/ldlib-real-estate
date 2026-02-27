@@ -1,6 +1,29 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 31000,
+    "category": "شقة",
+    "floors": 1,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "😍بسم الله وماشاء الله 😍\nجبنالكن قطعتين مرتبة بموقع مميز \nطابق اول ابجور لون اصفر 4 غرف سعرو 31الف وبازار 🤏 عالمخطط \nالموقع طريق بين قصر العدلي ودوار سمكات\nb0058",
+    "coordinates": [
+      35.927674335995874,
+      36.630998999546534
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772232136233_0_IMG-20260228-WA0014.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772232136233_0_IMG-20260228-WA0014.jpg"
+    ],
+    "createdDate": "2026-02-27T22:42:16.231Z",
+    "id": 1772232137809
+  },
+  {
+    "title": "شقة للبيع",
     "price": 89000,
     "category": "شقة",
     "floors": 1,
