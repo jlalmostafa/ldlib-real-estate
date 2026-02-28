@@ -1,6 +1,29 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 85000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "للبيع اربع غرف بالقصور مقابل جامع الحياة تماماً طابق تاني الاحمر 85$ وبازار صغير\nb0061",
+    "coordinates": [
+      35.92182563130229,
+      36.63072554374752
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772239549168_0_IMG-20260228-WA0019.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772239549168_0_IMG-20260228-WA0019.jpg"
+    ],
+    "createdDate": "2026-02-28T00:45:49.168Z",
+    "id": 1772239550759
+  },
+  {
+    "title": "شقة للبيع",
     "price": 31000,
     "category": "شقة",
     "floors": 5,
