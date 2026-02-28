@@ -870,7 +870,8 @@
     "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1771892435265_VID-20260224-WA0001.mp4",
     "images": [],
     "createdDate": "2026-02-24T00:20:35.265Z",
-    "id": 1771892437937
+    "id": 1771892437937,
+    "likes": 1
   },
   {
     "title": "شقة للبيع",
@@ -893,7 +894,8 @@
       "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1771892071388_0_IMG-20260224-WA0028.jpg"
     ],
     "createdDate": "2026-02-24T00:14:31.387Z",
-    "id": 1771892072880
+    "id": 1771892072880,
+    "likes": 0
   },
   {
     "title": "محل للبيع",
