@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 31000,
+    "category": "شقة",
+    "floors": 5,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "للبيع طابق خامس ثلاث غرف تنازل على العقد\nالسعر ٣٠ الف وسكرا صغيره البيت ماجر\nb0060",
+    "coordinates": [
+      35.934830966786556,
+      36.63170169905979
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772239271833_VID-20260228-WA0018.mp4",
+    "images": [],
+    "createdDate": "2026-02-28T00:41:11.833Z",
+    "id": 1772239283049
+  },
+  {
+    "title": "شقة للبيع",
     "price": 55000,
     "category": "شقة",
     "floors": 5,
