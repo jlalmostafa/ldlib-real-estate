@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 55000,
+    "category": "شقة",
+    "floors": 5,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": true,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "شقة للبيع بمطقة النسيم \nقريبة من جامع \nطابو اخضر و التسليم مباشر \nطابق خامس\nالسعر 55ألف\nb0059",
+    "coordinates": [
+      35.91792124166104,
+      36.6366603067809
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772238731815_VID-20260228-WA0015.mp4",
+    "images": [],
+    "createdDate": "2026-02-28T00:32:11.815Z",
+    "id": 1772238785768
+  },
+  {
+    "title": "شقة للبيع",
     "price": 31000,
     "category": "شقة",
     "floors": 1,
