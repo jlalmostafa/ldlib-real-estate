@@ -1,6 +1,29 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 33000,
+    "category": "شقة",
+    "floors": 3,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "متوفر \nالسادس البرتقالي     ٣٣ الف \nالبنفسجي \nالاول والثاني و الثالث والرابع   ٣٦ الف \nالبنفسجي الخامس ٣٥ الف \nالاخضر الاول   ٥٥ \nالاخضر الخامس    ٥٠ \nالاخضر السادس    ٥٠ \nالاصفر الستدس     ٥٣\nb0064",
+    "coordinates": [
+      35.935649223810465,
+      36.62015801309095
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772408389965_0_IMG-20260302-WA0004.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772408389965_0_IMG-20260302-WA0004.jpg"
+    ],
+    "createdDate": "2026-03-01T23:39:49.965Z",
+    "id": 1772408391487
+  },
+  {
+    "title": "شقة للبيع",
     "price": 79000,
     "category": "شقة",
     "floors": 5,
