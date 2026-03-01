@@ -1,6 +1,27 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 79000,
+    "category": "شقة",
+    "floors": 5,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "السلام عليكم\nللبيع \nخامس عضم\n79الف وبازار\nb0063",
+    "coordinates": [
+      35.919319716430536,
+      36.62406579810825
+    ],
+    "mediaType": "video",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/video_1772408220140_VID-20260302-WA0001.mp4",
+    "images": [],
+    "createdDate": "2026-03-01T23:37:00.135Z",
+    "id": 1772408223663
+  },
+  {
+    "title": "شقة للبيع",
     "price": 75000,
     "category": "شقة",
     "floors": 2,
