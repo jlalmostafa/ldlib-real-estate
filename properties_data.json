@@ -1,6 +1,29 @@
 [
   {
     "title": "شقة للبيع",
+    "price": 38000,
+    "category": "شقة",
+    "floors": 3,
+    "type": "للبيع",
+    "rooms": 4,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "🧩 بناء الشرعيه \nباشر العمل بالبناء \nمتوفر \n🟢 الثالث الاخضر ٣٨ \n🟢 السادس الاخضر ٣٦ \n🔴 الثالث الاحمر ٤٥ \n🔴 الخامس الاحمر ٤٣ \n🟡 الخامس الاصفر ٢٧ \n🟡 السادس الاصفر ٢٥\nb0066",
+    "coordinates": [
+      35.92789234502076,
+      36.63867544642337
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772409683892_0_IMG-20260302-WA0008.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772409683892_0_IMG-20260302-WA0008.jpg"
+    ],
+    "createdDate": "2026-03-02T00:01:23.892Z",
+    "id": 1772409685429
+  },
+  {
+    "title": "شقة للبيع",
     "price": 78000,
     "category": "شقة",
     "floors": 4,
