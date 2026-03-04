@@ -1,30 +1,5 @@
 [
   {
-    "title": "ري",
-    "price": 94,
-    "category": "أرض",
-    "floors": 2,
-    "type": "للبيع",
-    "rooms": 1,
-    "ready": true,
-    "phone": "+963949340870",
-    "region": "idlib",
-    "description": "رظري",
-    "coordinates": [
-      36.19007642076653,
-      37.12829589843751
-    ],
-    "mediaType": "image",
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772585410682_0_1000328993.jpg",
-    "images": [
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772585410682_0_1000328993.jpg"
-    ],
-    "createdDate": "2026-03-04T00:50:10.682Z",
-    "userId": 1772581057816,
-    "status": "approved",
-    "id": 1772585411880
-  },
-  {
     "title": "شقة للبيع",
     "price": 39000,
     "category": "شقة",
