@@ -1,29 +1,5 @@
 [
   {
-    "title": "شقة",
-    "price": 10,
-    "category": "شقة",
-    "floors": 2,
-    "type": "للبيع",
-    "rooms": 4,
-    "ready": true,
-    "phone": "+963949340870",
-    "region": "idlib",
-    "description": "عقار",
-    "coordinates": [
-      36.303551217788865,
-      36.86737060546876
-    ],
-    "mediaType": "image",
-    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772582066756_0_1000327815.jpg",
-    "images": [
-      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772582066756_0_1000327815.jpg"
-    ],
-    "createdDate": "2026-03-03T23:54:26.756Z",
-    "userId": 1772581057816,
-    "id": 1772582067886
-  },
-  {
     "title": "شقة للبيع",
     "price": 39000,
     "category": "شقة",
