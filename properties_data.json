@@ -1,5 +1,30 @@
 [
   {
+    "title": "شقة للبيع",
+    "price": 55000,
+    "category": "شقة",
+    "floors": 3,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "+963949340870",
+    "region": "idlib",
+    "description": "⛩️ مشروع بوابه الجامعه ٢ \nالبناء واصل للطابق الاول \n🕌 قريب على جامع الامه \n🌲 حديقه سيتي روز .\n🏛️ كليه الطب البشري\n🏟️ الملعب البلدي \nمتوفر بهالبناء \n🔴 السادس الاحمر      ٦٥ الف \n🔴 الاحمر الاول          ٧٥ الف .\n🔵 الازرق الاول           ٧٥ الف \n🟡 الاصفر الاول           ٥٥ الف .\n🔵 الازرق الثالث          ٧٠ الف\n\nb0073",
+    "coordinates": [
+      35.94005717905683,
+      36.62466364540256
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772671401230_0_IMG-20260305-WA0011.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772671401230_0_IMG-20260305-WA0011.jpg"
+    ],
+    "createdDate": "2026-03-05T00:43:21.230Z",
+    "userId": null,
+    "status": "pending",
+    "id": 1772671402927
+  },
+  {
     "title": "شقة للبيع ",
     "price": 69000,
     "category": "شقة",
