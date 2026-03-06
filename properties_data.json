@@ -1,5 +1,28 @@
 [
   {
+    "title": "حماه كازو شارع المختار",
+    "price": 30000,
+    "category": "شقة",
+    "floors": 2,
+    "type": "للبيع",
+    "rooms": 3,
+    "ready": true,
+    "phone": "0945198833",
+    "region": "idlib",
+    "description": "شقة واجهة ط٢ فني جاهزة يساري",
+    "coordinates": [
+      35.15080839433427,
+      36.722378956210385
+    ],
+    "mediaType": "youtube",
+    "mediaUrl": "",
+    "images": [],
+    "createdDate": "2026-03-06T19:08:14.054Z",
+    "userId": 1772822467772,
+    "status": "pending",
+    "id": 1772824094054
+  },
+  {
     "title": "ارضية للعمار على شارعين",
     "price": 300000,
     "category": "أرض",
@@ -21,7 +44,7 @@
     ],
     "createdDate": "2026-03-06T18:59:53.211Z",
     "userId": 1772822467772,
-    "status": "approved",
+    "status": "pending",
     "id": 1772823596188
   },
   {
