@@ -1,5 +1,30 @@
 [
   {
+    "title": "ارضية للعمار على شارعين",
+    "price": 300000,
+    "category": "أرض",
+    "floors": 5,
+    "type": "للبيع",
+    "rooms": 5,
+    "ready": false,
+    "phone": "0945198833",
+    "region": "idlib",
+    "description": "دار٣٠٠م على شارعين زاوية ترخص ٥ طوابق وملحق",
+    "coordinates": [
+      35.924750960559834,
+      36.625490675342014
+    ],
+    "mediaType": "image",
+    "mediaUrl": "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772823593212_0_IMG-20260228-WA0021.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jlalmostafa/ldlib-real-estate/main/media/image_1772823593212_0_IMG-20260228-WA0021.jpg"
+    ],
+    "createdDate": "2026-03-06T18:59:53.211Z",
+    "userId": 1772822467772,
+    "status": "pending",
+    "id": 1772823596188
+  },
+  {
     "title": "شقة للبيع",
     "price": 69000,
     "category": "شقة",
